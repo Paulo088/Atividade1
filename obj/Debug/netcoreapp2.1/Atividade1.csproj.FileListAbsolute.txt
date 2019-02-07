@@ -1,0 +1,11 @@
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/obj/Debug/netcoreapp2.1/Atividade1.csprojAssemblyReference.cache
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/obj/Debug/netcoreapp2.1/Atividade1.csproj.CoreCompileInputs.cache
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/obj/Debug/netcoreapp2.1/Atividade1.AssemblyInfoInputs.cache
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/obj/Debug/netcoreapp2.1/Atividade1.AssemblyInfo.cs
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/bin/Debug/netcoreapp2.1/Atividade1.deps.json
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/bin/Debug/netcoreapp2.1/Atividade1.runtimeconfig.json
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/bin/Debug/netcoreapp2.1/Atividade1.runtimeconfig.dev.json
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/bin/Debug/netcoreapp2.1/Atividade1.dll
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/bin/Debug/netcoreapp2.1/Atividade1.pdb
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/obj/Debug/netcoreapp2.1/Atividade1.dll
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade1/obj/Debug/netcoreapp2.1/Atividade1.pdb
